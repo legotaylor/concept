@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "${modId}",
+	"version": "${version}",
+	"name": "${modName}",
+	"description": "${modDescription}",
+	"authors": [
+		"${authors}"
+	],
+	"contributors": [
+		"${contributors}"
+	],
+	"contact": {
+		"homepage": "${homepage}",
+		"issues": "${issues}",
+		"sources": "${sources}"
+	},
+	"license": "${license}",
+	"icon": "assets/${modId}/icon.png",
+	"depends": {
+		"minecraft": ">=${mc}",
+		"fabric-api": ">=${fapi}"
+	},
+	"suggests": {
+	},
+	"entrypoints": {
+		"main": [
+			"dev.dannytaylor.${modId}.common.Main"
+		],
+		"client": [
+			"dev.dannytaylor.${modId}.client.ClientMain"
+		]
+	},
+	"mixins": [
+		"${modId}.mixins.json"
+	],
+	"accessWidener" : "${modId}.accesswidener"
+}

@@ -1,0 +1,32 @@
+{
+  "required": true,
+  "package": "dev.dannytaylor.concept.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "firebender.FireChargeItemMixin",
+    "firebender.LivingEntityMixin",
+    "firebender.PlayerEntityMixin",
+    "firebender.ServerPlayerEntityMixin",
+    "light_headed.LivingEntityMixin",
+    "light_headed.PlayerEntityMixin",
+    "piss.BiomeMixin",
+    "piss.EntityMixin",
+    "piss.LivingEntityMixin",
+    "piss.PotionsMixin",
+    "reversed_boats.BoatEntityMixin",
+    "staring_mannequins.LivingEntityMixin",
+    "staring_mannequins.MannequinEntityMixin",
+    "staring_mannequins.PlayerEntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  },
+  "client": [
+    "firebender.StatusEffectsDisplayMixin",
+    "piss.PotionTintSourceMixin",
+    "shaders.GameRendererMixin"
+  ]
+}

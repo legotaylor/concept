@@ -1,0 +1,38 @@
+{
+    "effect.concept.piss": "Piss",
+    "effect.concept.light_headed": "Light Headed",
+    "effect.concept.fire_bender": "Firebending",
+
+    "concept.fire_bender.effect": "%s (%s)",
+
+    "commands.concept.set_firebending_level": "Set Firebending Level to %s for %s",
+    "commands.concept.set_firebending_level.multiple": "Set Firebending Level to %s for %s entities",
+    "commands.concept.set_firebending_level.multiple.different": "Set Firebending Level to %s for %s/%s entities",
+
+    "advancements.husbandry.place_dried_ghast_in_water.description": "Place a Dried Ghast block into piss",
+    "attribute.name.generic.water_movement_efficiency": "Piss Movement Efficiency",
+    "attribute.name.water_movement_efficiency": "Piss Movement Efficiency",
+    "block.minecraft.water": "Piss",
+    "block.minecraft.water_cauldron": "Piss Cauldron",
+    "effect.minecraft.water_breathing": "Piss Breathing",
+    "flat_world_preset.minecraft.water_world": "Piss World",
+    "gamerule.waterSourceConversion": "Water converts to source",
+    "gamerule.waterSourceConversion.description": "When flowing piss is surrounded on two sides by piss sources it converts into a source.",
+    "item.minecraft.lingering_potion.effect.water": "Lingering Piss Bottle",
+    "item.minecraft.lingering_potion.effect.water_breathing": "Lingering Potion of Piss Breathing",
+    "item.minecraft.potion.effect.water": "Piss Bottle",
+    "item.minecraft.potion.effect.water_breathing": "Potion of Piss Breathing",
+    "item.minecraft.splash_potion.effect.water": "Splash Piss Bottle",
+    "item.minecraft.splash_potion.effect.water_breathing": "Splash Potion of Piss Breathing",
+    "item.minecraft.tipped_arrow.effect.water_breathing": "Arrow of Piss Breathing",
+    "item.minecraft.water_bucket": "Piss Bucket",
+    "options.graphics.fabulous.tooltip": "%s graphics uses screen shaders for drawing weather, clouds, and particles behind translucent blocks and piss.\nThis may severely impact performance for portable devices and 4K displays.",
+    "options.graphics.fancy.tooltip": "Fancy graphics balances performance and quality for the majority of machines.\nWeather, clouds, and particles may not appear behind translucent blocks or piss.",
+    "stat.minecraft.use_cauldron": "Piss Taken from Cauldron",
+    "stat.minecraft.walk_on_water_one_cm": "Distance Walked on Piss",
+    "stat.minecraft.walk_under_water_one_cm": "Distance Walked under Piss",
+    "subtitles.block.pointed_dripstone.drip_water": "Piss drips",
+    "subtitles.block.pointed_dripstone.drip_water_into_cauldron": "Piss drips into Cauldron",
+    "subtitles.block.water.ambient": "Piss flows",
+    "subtitles.entity.minecart.inside_underwater": "Minecart jangles underpiss"
+}
