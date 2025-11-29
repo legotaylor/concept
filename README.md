@@ -19,7 +19,6 @@
 
 ##  
 - The streamed playthrough of this also played with the Element Animations April Fools Resource Pack, which can be found here: https://web.archive.org/web/20141118054421/https://www.elementanimation.com/TEAVSRP2.zip  
-- As `Hostile Friends, and Passive Enemies` wasn't ready, the streamed playthrough used Fleecifer (Hostile Sheep) instead.
 
 ## Idea's that I didn't have time to implement:
 - Hostile Friends, and Passive Enemies
